@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Void",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2025-12-18T13:02:41.099729Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Coloring the void",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/01_Coloring_the_void_M83.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Void",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/02_The_Void_Metric.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boy Void",
+      "artist": "No Age",
+      "has_synced": true,
+      "path": "select/03_Boy_Void_No_Age.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Abyss of the Void",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/04_Abyss_of_the_Void_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Into The Void",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/05_Into_The_Void_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Out of the Void",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/06_Out_of_the_Void_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Into The Void",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/07_Into_The_Void_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Noise of the Void",
+      "artist": "Drab Majesty",
+      "has_synced": true,
+      "path": "select/08_Noise_of_the_Void_Drab_Majesty.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fill The Void",
+      "artist": "Oingo Boingo",
+      "has_synced": false,
+      "path": "select/09_Fill_The_Void_Oingo_Boingo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby's in the Void",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": false,
+      "path": "select/10_Baby's_in_the_Void_Black_Moth_Super_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "VOID",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/11_VOID_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Moonlit Sky (with the Void Pacific Choir)",
+      "artist": "Robin Schulz feat. Moby & The Void Pacific Choir",
+      "has_synced": false,
+      "path": "select/12_Moonlit_Sky_(with_the_Void_Pacific_Choir)_Robin_Schulz_feat._Moby_&_The_Void_Pacific_Choir.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Destroyer of the Void",
+      "artist": "Blitzen Trapper",
+      "has_synced": false,
+      "path": "select/13_Destroyer_of_the_Void_Blitzen_Trapper.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Elegy to the Void",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/14_Elegy_to_the_Void_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Faith/Void",
+      "artist": "Bill Callahan",
+      "has_synced": false,
+      "path": "select/15_Faith_Void_Bill_Callahan.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Faith\u0000Void",
+      "artist": "Bill Callahan",
+      "has_synced": false,
+      "path": "select/16_Faith\u0000Void_Bill_Callahan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Void",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_Void_DUSTCELL.txt"
+    }
+  ]
+}
